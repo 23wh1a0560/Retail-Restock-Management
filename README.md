@@ -40,5 +40,3 @@ It simulates sales data, forecasts stock-outs, and coordinates restocking effici
 | **Dashboard** | Streamlit |
 
 ---
-
-## 📂 Project Structure
